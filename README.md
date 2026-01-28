@@ -3,6 +3,7 @@
 This project is a simple Notes application built with FastAPI on the backend and HTML/CSS/JavaScript frontend.
 It follows a clean, layered architecture on the backend and keeps the frontend intentionally simple to focus on clarity.
 
+![Notes-App](src/notesapp.png)
 ---
 
 ### Running the Project
